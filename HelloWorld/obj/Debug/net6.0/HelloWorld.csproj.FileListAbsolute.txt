@@ -1,0 +1,15 @@
+/private/var/root/Desktop/Seminar/HelloWorld/bin/Debug/net6.0/HelloWorld
+/private/var/root/Desktop/Seminar/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/private/var/root/Desktop/Seminar/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/private/var/root/Desktop/Seminar/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/private/var/root/Desktop/Seminar/HelloWorld/bin/Debug/net6.0/ref/HelloWorld.dll
+/private/var/root/Desktop/Seminar/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/private/var/root/Desktop/Seminar/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/private/var/root/Desktop/Seminar/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/private/var/root/Desktop/Seminar/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/private/var/root/Desktop/Seminar/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/private/var/root/Desktop/Seminar/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/private/var/root/Desktop/Seminar/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/private/var/root/Desktop/Seminar/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
+/private/var/root/Desktop/Seminar/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/private/var/root/Desktop/Seminar/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
